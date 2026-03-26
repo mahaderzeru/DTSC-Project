@@ -21,8 +21,6 @@ This collaborative research project explores the relationship between educationa
 
 The project uses publicly available wage and education data to examine earnings across demographic groups.
 
-> *(Add your data source here — e.g., U.S. Bureau of Labor Statistics, Census PUMS, or Kaggle)*
-
 Key variables analyzed:
 - Gender (Male / Female)
 - Education level (High School Diploma vs. Advanced Degree)
@@ -57,8 +55,6 @@ The analysis combined SQL and Python to explore and model the data:
 ---
 
 ## 💡 Key Findings
-
-> *(Fill in your actual findings from the notebook/report)*
 
 - Workers with advanced degrees earned more on average than high school diploma holders across all groups
 - The gender pay gap persisted at both education levels, though the magnitude differed
